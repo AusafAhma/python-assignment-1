@@ -12,3 +12,5 @@ syedausafahmad@Syeds-MacBook-Air python % /usr/bin/python3 "/Users/syedausafahma
 Enter first name: ausaf
 Enter last name: ahmad
 Full name: ausaf ahmad
+
+Hello, ausaf ahmad! Welcome to the Python program.
